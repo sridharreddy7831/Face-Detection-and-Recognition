@@ -25,7 +25,7 @@ You can check the demo of the project in the provided [output video](output0.mp4
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/face-detection-recognition.git
+   git clone https://github.com/sridharreddy7831/Face-Recognition-in-Image-and-Video.git
    cd face-detection-recognition
    ```
 
@@ -37,20 +37,6 @@ You can check the demo of the project in the provided [output video](output0.mp4
    pip install pandas
    ```
 
-## Project Structure
-
-```
-face-detection-recognition/
-├── nani.jpeg
-├── KS.jpeg
-├── PK.jpeg
-├── SK.jpeg
-├── VK.jpeg
-├── input.mp4
-├── output0.mp4
-├── face_detection.py
-├── README.md
-```
 
 ## Usage
 
